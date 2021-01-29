@@ -23,3 +23,7 @@ $loader->register();
 // Run seeder
 $t = new $name();
 $t->run();
+
+
+
+Nn
